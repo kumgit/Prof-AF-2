@@ -326,13 +326,14 @@ Delete A Lot Of Messages From Groups!
 𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘖𝘳 𝘈𝘶𝘥𝘪𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
 
 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
-• /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
+• /song or /mp3 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
+• /video or /mp4 https://youtu.be/*****
 
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/song mkn</code>
-<code>/mp4 https://youtu.be/*******</code>
-<code>/video https://youtu.be/*****</code>  """
+<code>/song chilla chilla</code>
+<code>/mp3 chilla chilla</code>
+<code>/video https://youtu.be/*******</code>
+<code>/mp4 https://youtu.be/*****</code>  """
 
 
     
