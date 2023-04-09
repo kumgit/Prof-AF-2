@@ -59,7 +59,7 @@ G_FILTER = bool(environ.get("G_FILTER", True))
 BUTTON_LOCK = environ.get("BUTTON_LOCK", "True")
 
 # url shortner
-LONG_DROPLINK_URL = environ.get('LONG_DROPLINK_URL', False)
+LONG_DROPLINK_URL = environ.get('LONG_DROPLINK_URL', True)
 SHORT_URL = environ.get('SHORT_URL', 'shorturllink.in')
 SHORT_API = environ.get('SHORT_API', '9c42e07cd6894c766115464563abd3f226182a7c')
 
