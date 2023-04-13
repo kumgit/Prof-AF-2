@@ -424,15 +424,5 @@ def humanbytes(size):
         n += 1
     return str(round(size, 2)) + " " + Dic_powerN[n] + 'B'
 
-#shortz
-
-shortz = shortzy.Shortzy(SHORT_API, "")
-async def get_shortlink(link):
-    if SHORT_API:
-        if LONG_DROPLINK_URL is True:
-            return await shortz.get_quick_link(link)
-        else:
-            return await shortz.convert(link, silently_fail=False)
-    return link
 
 
